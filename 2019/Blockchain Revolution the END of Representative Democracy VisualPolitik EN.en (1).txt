@@ -1,0 +1,1496 @@
+1
+00:00:00,030 --> 00:00:01,199
+this video is brought to you by
+
+2
+00:00:01,199 --> 00:00:02,730
+Squarespace whether you need a domain
+
+3
+00:00:02,730 --> 00:00:05,100
+website or online store make it with
+
+4
+00:00:05,100 --> 00:00:06,569
+Squarespace check out squarespace.com
+
+5
+00:00:06,569 --> 00:00:08,730
+forward slash visual politic for a free
+
+6
+00:00:08,730 --> 00:00:20,310
+trial link below in a previous visual
+
+7
+00:00:20,310 --> 00:00:22,289
+politic video you'll find the link in
+
+8
+00:00:22,289 --> 00:00:24,390
+the description below we spoke about
+
+9
+00:00:24,390 --> 00:00:27,300
+what money is its main problems and why
+
+10
+00:00:27,300 --> 00:00:29,670
+cryptocurrencies are here to stay to
+
+11
+00:00:29,670 --> 00:00:32,189
+recap the speed anonymity safety and
+
+12
+00:00:32,189 --> 00:00:34,200
+independence of cryptocurrencies which
+
+13
+00:00:34,200 --> 00:00:36,390
+aren't run by governments politicians or
+
+14
+00:00:36,390 --> 00:00:38,940
+any council of wise men aren't features
+
+15
+00:00:38,940 --> 00:00:41,100
+we can ignore therefore even though it
+
+16
+00:00:41,100 --> 00:00:42,840
+may seem like they went out of fashion
+
+17
+00:00:42,840 --> 00:00:45,870
+it's very likely that one way or another
+
+18
+00:00:45,870 --> 00:00:49,590
+the cryptocurrency rush will be back
+
+19
+00:00:49,590 --> 00:01:00,420
+[Music]
+
+20
+00:01:00,420 --> 00:01:02,250
+now I want a minute Simon because some
+
+21
+00:01:02,250 --> 00:01:03,540
+of you might be now thinking well that's
+
+22
+00:01:03,540 --> 00:01:05,489
+all well and good but at the end of the
+
+23
+00:01:05,489 --> 00:01:07,560
+day cryptocurrencies they just don't
+
+24
+00:01:07,560 --> 00:01:09,720
+have state support if that's what you're
+
+25
+00:01:09,720 --> 00:01:10,770
+thinking well why don't we ask our
+
+26
+00:01:10,770 --> 00:01:12,930
+Argentinian or Venezuelan friends what
+
+27
+00:01:12,930 --> 00:01:15,390
+they think of state support and what it
+
+28
+00:01:15,390 --> 00:01:17,880
+really amounts to little bits of love
+
+29
+00:01:17,880 --> 00:01:20,040
+would the monarchy anything long what do
+
+30
+00:01:20,040 --> 00:01:21,210
+you think or something he knows but
+
+31
+00:01:21,210 --> 00:01:22,860
+there wasn't money in it okay like him
+
+32
+00:01:22,860 --> 00:01:24,990
+to get it dinner is you a little guy
+
+33
+00:01:24,990 --> 00:01:26,520
+what's more we can't forget the based on
+
+34
+00:01:26,520 --> 00:01:28,650
+evidence the exact opposite usually
+
+35
+00:01:28,650 --> 00:01:30,470
+happens central bank's end up supporting
+
+36
+00:01:30,470 --> 00:01:33,090
+wasteful governments how well that's
+
+37
+00:01:33,090 --> 00:01:34,619
+simply by running the money-making
+
+38
+00:01:34,619 --> 00:01:37,080
+machine printing money and buying
+
+39
+00:01:37,080 --> 00:01:39,360
+governmental debt all this in exchange
+
+40
+00:01:39,360 --> 00:01:41,430
+of course for creating inflation and
+
+41
+00:01:41,430 --> 00:01:43,350
+sinking the currency's value state
+
+42
+00:01:43,350 --> 00:01:45,390
+support not really sounding so great now
+
+43
+00:01:45,390 --> 00:01:48,060
+but enough about cryptocurrencies as we
+
+44
+00:01:48,060 --> 00:01:49,410
+mentioned in a previous video they are
+
+45
+00:01:49,410 --> 00:01:51,149
+just the first application of a new
+
+46
+00:01:51,149 --> 00:01:53,070
+technology a technology that can change
+
+47
+00:01:53,070 --> 00:01:58,380
+society forever so listen up
+
+48
+00:01:58,380 --> 00:02:04,230
+[Music]
+
+49
+00:02:04,230 --> 00:02:09,880
+watch a you probably already know the
+
+50
+00:02:09,880 --> 00:02:11,260
+blockchain is the technology that
+
+51
+00:02:11,260 --> 00:02:13,630
+supports Bitcoin but there's a bit more
+
+52
+00:02:13,630 --> 00:02:15,600
+to it than that
+
+53
+00:02:15,600 --> 00:02:18,430
+you see blockchain is like a huge book
+
+54
+00:02:18,430 --> 00:02:20,380
+where all the Bitcoin transactions that
+
+55
+00:02:20,380 --> 00:02:22,300
+have ever taken place all over the world
+
+56
+00:02:22,300 --> 00:02:24,430
+are registered to ensure great accuracy
+
+57
+00:02:24,430 --> 00:02:26,080
+of payments transactions are recorded
+
+58
+00:02:26,080 --> 00:02:28,450
+and made available to everyone in that
+
+59
+00:02:28,450 --> 00:02:30,730
+way blockchain works like an unalterable
+
+60
+00:02:30,730 --> 00:02:33,790
+public record a consensus tool among all
+
+61
+00:02:33,790 --> 00:02:37,720
+of its users and this implies nothing
+
+62
+00:02:37,720 --> 00:02:39,760
+less than a revolution it's the ends of
+
+63
+00:02:39,760 --> 00:02:42,370
+a hierarchically based order allow me to
+
+64
+00:02:42,370 --> 00:02:43,989
+explain since the beginning of time
+
+65
+00:02:43,989 --> 00:02:45,790
+people have always needed the authority
+
+66
+00:02:45,790 --> 00:02:47,680
+of third parties or institutions to
+
+67
+00:02:47,680 --> 00:02:49,600
+coordinate their actions this might be
+
+68
+00:02:49,600 --> 00:02:51,520
+Kings governors notaries registrar's
+
+69
+00:02:51,520 --> 00:02:53,110
+officials experts judges central banks
+
+70
+00:02:53,110 --> 00:02:55,180
+supervisor and thief the list goes on
+
+71
+00:02:55,180 --> 00:03:01,660
+and it's a really long list and this
+
+72
+00:03:01,660 --> 00:03:04,239
+list is mostly made up of elites who
+
+73
+00:03:04,239 --> 00:03:06,400
+charge a lot of money and who generally
+
+74
+00:03:06,400 --> 00:03:08,769
+made these processes very complicated
+
+75
+00:03:08,769 --> 00:03:09,970
+and rather drawn-out
+
+76
+00:03:09,970 --> 00:03:11,769
+just think about what we do if we want
+
+77
+00:03:11,769 --> 00:03:13,000
+to buy a house we have to deal with
+
+78
+00:03:13,000 --> 00:03:15,070
+solicitors estate agents council
+
+79
+00:03:15,070 --> 00:03:17,620
+officials banks the list it goes on once
+
+80
+00:03:17,620 --> 00:03:19,570
+again but now blockchain makes it
+
+81
+00:03:19,570 --> 00:03:21,040
+possible to simplify all of these
+
+82
+00:03:21,040 --> 00:03:23,560
+procedures to do them almost immediately
+
+83
+00:03:23,560 --> 00:03:25,360
+safely and there's a much lower cost
+
+84
+00:03:25,360 --> 00:03:27,670
+imagine for example if we replaced real
+
+85
+00:03:27,670 --> 00:03:29,680
+estate property records with blockchain
+
+86
+00:03:29,680 --> 00:03:31,390
+technology well what would happen here
+
+87
+00:03:31,390 --> 00:03:33,400
+basically with blockchain everyone could
+
+88
+00:03:33,400 --> 00:03:35,320
+be informed simultaneously that the
+
+89
+00:03:35,320 --> 00:03:36,970
+house in question has been transferred
+
+90
+00:03:36,970 --> 00:03:38,680
+and paid for what's more the blockchain
+
+91
+00:03:38,680 --> 00:03:40,360
+records and communications would be
+
+92
+00:03:40,360 --> 00:03:43,410
+unalterable and secure from manipulation
+
+93
+00:03:43,410 --> 00:03:44,590
+[Music]
+
+94
+00:03:44,590 --> 00:03:46,989
+with blockchain any user who wants to
+
+95
+00:03:46,989 --> 00:03:49,180
+can see which homes are associated with
+
+96
+00:03:49,180 --> 00:03:50,950
+each account slit they won't know the
+
+97
+00:03:50,950 --> 00:03:53,230
+identity of the person behinds that
+
+98
+00:03:53,230 --> 00:03:54,880
+account and the same can happen with
+
+99
+00:03:54,880 --> 00:03:57,489
+money goods and any valuable records
+
+100
+00:03:57,489 --> 00:03:59,380
+this might be vehicles company shares
+
+101
+00:03:59,380 --> 00:04:02,170
+contracts copyrights patents wills etc
+
+102
+00:04:02,170 --> 00:04:03,489
+this means that will no longer need a
+
+103
+00:04:03,489 --> 00:04:05,830
+central bank or companies like Visa or
+
+104
+00:04:05,830 --> 00:04:08,019
+indeed any government authority to
+
+105
+00:04:08,019 --> 00:04:09,730
+validate a transaction it's the
+
+106
+00:04:09,730 --> 00:04:11,680
+consensual knowledge of this transaction
+
+107
+00:04:11,680 --> 00:04:13,810
+made transparent to all which will
+
+108
+00:04:13,810 --> 00:04:17,620
+validate it all right so now you might
+
+109
+00:04:17,620 --> 00:04:19,780
+be wondering well is this actually that
+
+110
+00:04:19,780 --> 00:04:21,549
+disruptive well blockchain is an
+
+111
+00:04:21,549 --> 00:04:23,229
+emerging technology and we still don't
+
+112
+00:04:23,229 --> 00:04:24,940
+understand all of its implications or
+
+113
+00:04:24,940 --> 00:04:26,620
+its possibilities it's complicated
+
+114
+00:04:26,620 --> 00:04:27,970
+because it's sort of like if you were
+
+115
+00:04:27,970 --> 00:04:29,590
+trying to explain a credit card to a
+
+116
+00:04:29,590 --> 00:04:31,330
+banker from the Middle Ages but the
+
+117
+00:04:31,330 --> 00:04:33,280
+truth is that we can already see some
+
+118
+00:04:33,280 --> 00:04:35,350
+very interesting applications in a
+
+119
+00:04:35,350 --> 00:04:36,880
+previous video we talked about smart
+
+120
+00:04:36,880 --> 00:04:38,620
+contract so now we're going to see a
+
+121
+00:04:38,620 --> 00:04:40,660
+very important aspect of them something
+
+122
+00:04:40,660 --> 00:04:42,700
+that's going to be exciting to some
+
+123
+00:04:42,700 --> 00:04:45,940
+bands probably worrisome to others as I
+
+124
+00:04:45,940 --> 00:04:47,200
+did with our previous blockchain video
+
+125
+00:04:47,200 --> 00:04:48,070
+I'm going to ask you to keep an open
+
+126
+00:04:48,070 --> 00:04:49,210
+mind for this one
+
+127
+00:04:49,210 --> 00:04:54,229
+[Music]
+
+128
+00:04:54,229 --> 00:04:56,340
+the daos
+
+129
+00:04:56,340 --> 00:04:59,699
+and smart contracts so let's consider
+
+130
+00:04:59,699 --> 00:05:00,870
+what could be the most surprising
+
+131
+00:05:00,870 --> 00:05:02,610
+blockchain application this is an
+
+132
+00:05:02,610 --> 00:05:04,500
+application we could revolutionize many
+
+133
+00:05:04,500 --> 00:05:06,120
+of the global institutions that we all
+
+134
+00:05:06,120 --> 00:05:08,639
+know a dao is simply an organization
+
+135
+00:05:08,639 --> 00:05:10,409
+regulated and directed by smart
+
+136
+00:05:10,409 --> 00:05:12,210
+contracts within the blockchain it has
+
+137
+00:05:12,210 --> 00:05:14,219
+condensed rules that are known by all
+
+138
+00:05:14,219 --> 00:05:16,139
+there's no bosses coordinators or
+
+139
+00:05:16,139 --> 00:05:18,180
+hierarchies there's no need for a
+
+140
+00:05:18,180 --> 00:05:22,800
+superior entity to control everything to
+
+141
+00:05:22,800 --> 00:05:24,479
+understand this better so far in history
+
+142
+00:05:24,479 --> 00:05:26,789
+Nanyan assets have always been owned by
+
+143
+00:05:26,789 --> 00:05:28,770
+one person or group of people however
+
+144
+00:05:28,770 --> 00:05:30,930
+from now on all of that could really
+
+145
+00:05:30,930 --> 00:05:31,530
+change
+
+146
+00:05:31,530 --> 00:05:33,629
+can you imagine companies owns not by
+
+147
+00:05:33,629 --> 00:05:35,430
+humans but my machines can you imagine
+
+148
+00:05:35,430 --> 00:05:37,889
+company is owned by a few lines of code
+
+149
+00:05:37,889 --> 00:05:39,780
+in the cloud maybe you can imagine a
+
+150
+00:05:39,780 --> 00:05:41,759
+company or an NGO without any human
+
+151
+00:05:41,759 --> 00:05:43,740
+workers now thanks to blockchain and
+
+152
+00:05:43,740 --> 00:05:45,629
+artificial intelligence this could all
+
+153
+00:05:45,629 --> 00:05:47,779
+be possible
+
+154
+00:05:47,779 --> 00:05:50,490
+but just as many of you may be freaking
+
+155
+00:05:50,490 --> 00:05:52,050
+out or thinking that we've lost our
+
+156
+00:05:52,050 --> 00:05:54,270
+minds here are some examples can you
+
+157
+00:05:54,270 --> 00:05:55,860
+imagine a completely impartial and
+
+158
+00:05:55,860 --> 00:05:57,539
+independent means of communication a
+
+159
+00:05:57,539 --> 00:05:59,099
+means of communication that doesn't
+
+160
+00:05:59,099 --> 00:06:00,960
+respond to political pressures we're
+
+161
+00:06:00,960 --> 00:06:03,089
+talking about media operated by a Dao
+
+162
+00:06:03,089 --> 00:06:05,279
+which would have no human onus you could
+
+163
+00:06:05,279 --> 00:06:07,289
+be tempted to push the editorial line
+
+164
+00:06:07,289 --> 00:06:09,330
+towards their own interests this company
+
+165
+00:06:09,330 --> 00:06:10,949
+which would be owned by a few lines of
+
+166
+00:06:10,949 --> 00:06:12,150
+code in the cloud with higher
+
+167
+00:06:12,150 --> 00:06:14,159
+journalists to work for it writing on
+
+168
+00:06:14,159 --> 00:06:14,999
+different topics
+
+169
+00:06:14,999 --> 00:06:16,620
+the topics with more hits would gain
+
+170
+00:06:16,620 --> 00:06:18,539
+more advertising revenue that is they
+
+171
+00:06:18,539 --> 00:06:20,610
+would give more money to the dao in
+
+172
+00:06:20,610 --> 00:06:21,899
+return it would provide greater
+
+173
+00:06:21,899 --> 00:06:23,849
+resources to hire more journalists and
+
+174
+00:06:23,849 --> 00:06:25,770
+improve the income of those who had the
+
+175
+00:06:25,770 --> 00:06:27,839
+most success and all of this it would be
+
+176
+00:06:27,839 --> 00:06:32,490
+run entirely independently
+
+177
+00:06:32,490 --> 00:06:34,020
+[Music]
+
+178
+00:06:34,020 --> 00:06:36,700
+how about another example imagine your
+
+179
+00:06:36,700 --> 00:06:38,889
+taxi is a self-driving car a car without
+
+180
+00:06:38,889 --> 00:06:41,980
+a driver its owner is the car itself and
+
+181
+00:06:41,980 --> 00:06:43,690
+it's code in the cloud throughout the
+
+182
+00:06:43,690 --> 00:06:45,520
+day the vehicle provides taxi services
+
+183
+00:06:45,520 --> 00:06:47,290
+to anyone who wants them and it's paid
+
+184
+00:06:47,290 --> 00:06:49,060
+in bitcoins and then at night it
+
+185
+00:06:49,060 --> 00:06:51,340
+refueled and just maintains once it's
+
+186
+00:06:51,340 --> 00:06:53,050
+done all of that it returns to service
+
+187
+00:06:53,050 --> 00:06:54,700
+with the income that the vehicle obtains
+
+188
+00:06:54,700 --> 00:06:56,650
+it saves money to buy more self-driving
+
+189
+00:06:56,650 --> 00:06:58,360
+taxi since that's how its code is
+
+190
+00:06:58,360 --> 00:07:00,460
+programmed eventually it could have an
+
+191
+00:07:00,460 --> 00:07:02,139
+entire fleet of them this company isn't
+
+192
+00:07:02,139 --> 00:07:04,210
+directly controlled by any human it
+
+193
+00:07:04,210 --> 00:07:06,160
+doesn't need a bureaucratic structure it
+
+194
+00:07:06,160 --> 00:07:07,900
+would be very efficient and offer its
+
+195
+00:07:07,900 --> 00:07:12,630
+services and very reduced rates
+
+196
+00:07:12,630 --> 00:07:14,760
+and now another example think about an
+
+197
+00:07:14,760 --> 00:07:16,710
+insurance company controlled by a dao
+
+198
+00:07:16,710 --> 00:07:18,870
+with hardly any human intervention
+
+199
+00:07:18,870 --> 00:07:24,350
+[Music]
+
+200
+00:07:24,350 --> 00:07:26,460
+imagine that a country's farmers create
+
+201
+00:07:26,460 --> 00:07:28,290
+an insurance cooperative to protect
+
+202
+00:07:28,290 --> 00:07:30,630
+themselves from frost the DAO company
+
+203
+00:07:30,630 --> 00:07:32,040
+would automatically collect insurance
+
+204
+00:07:32,040 --> 00:07:34,470
+premiums from these farmers and if in
+
+205
+00:07:34,470 --> 00:07:36,000
+any part of the country there's a frost
+
+206
+00:07:36,000 --> 00:07:37,620
+at a certain time of the year that
+
+207
+00:07:37,620 --> 00:07:39,450
+damages the crops it would automatically
+
+208
+00:07:39,450 --> 00:07:41,490
+compensate the farmers by depositing
+
+209
+00:07:41,490 --> 00:07:45,930
+money in their accounts all right so now
+
+210
+00:07:45,930 --> 00:07:47,190
+we got to ask the question well what's
+
+211
+00:07:47,190 --> 00:07:48,900
+the point of all of this well among
+
+212
+00:07:48,900 --> 00:07:50,280
+other things it's to optimize the
+
+213
+00:07:50,280 --> 00:07:52,470
+productivity and efficiency with which
+
+214
+00:07:52,470 --> 00:07:54,780
+we perform several tasks imagine what
+
+215
+00:07:54,780 --> 00:07:56,310
+all of this could mean many services
+
+216
+00:07:56,310 --> 00:07:58,470
+they'd become much much cheaper and it's
+
+217
+00:07:58,470 --> 00:08:00,120
+blockchain that is making all of this
+
+218
+00:08:00,120 --> 00:08:02,160
+spectacular automation possible that's
+
+219
+00:08:02,160 --> 00:08:05,190
+not all let's take another leap let's
+
+220
+00:08:05,190 --> 00:08:07,500
+give these daos artificial intelligence
+
+221
+00:08:07,500 --> 00:08:09,030
+we could imagine investment funds
+
+222
+00:08:09,030 --> 00:08:11,240
+pension funds NGOs all without
+
+223
+00:08:11,240 --> 00:08:13,410
+bureaucracy we're talking about daos
+
+224
+00:08:13,410 --> 00:08:15,150
+that could hire human analysts and
+
+225
+00:08:15,150 --> 00:08:16,620
+programmers who would be able to make
+
+226
+00:08:16,620 --> 00:08:18,330
+their own decisions based on their
+
+227
+00:08:18,330 --> 00:08:20,130
+programming and their learning capacity
+
+228
+00:08:20,130 --> 00:08:22,140
+administrative tasks would disappear
+
+229
+00:08:22,140 --> 00:08:24,000
+almost completely and now maybe you can
+
+230
+00:08:24,000 --> 00:08:26,310
+imagine a town hall with no politicians
+
+231
+00:08:26,310 --> 00:08:28,080
+or councillors a town hall with very
+
+232
+00:08:28,080 --> 00:08:29,820
+simple rules that can communicate with
+
+233
+00:08:29,820 --> 00:08:32,280
+its neighbors it is constituted as a Dao
+
+234
+00:08:32,280 --> 00:08:34,500
+all of this is becoming possible in one
+
+235
+00:08:34,500 --> 00:08:37,530
+way or another
+
+236
+00:08:37,530 --> 00:08:39,520
+blockchain could radically change
+
+237
+00:08:39,520 --> 00:08:40,960
+society as we know it
+
+238
+00:08:40,960 --> 00:08:42,520
+many of the bureaucratic structures that
+
+239
+00:08:42,520 --> 00:08:44,020
+we use today they'll be completely
+
+240
+00:08:44,020 --> 00:08:46,300
+unnecessary so let's take a closer look
+
+241
+00:08:46,300 --> 00:08:55,270
+at that distributed and autonomous
+
+242
+00:08:55,270 --> 00:08:58,810
+governance folks societies models
+
+243
+00:08:58,810 --> 00:09:00,850
+they've evolved you see at the beginning
+
+244
+00:09:00,850 --> 00:09:02,410
+of time human beings we lived in
+
+245
+00:09:02,410 --> 00:09:04,570
+decentralized structures composed of a
+
+246
+00:09:04,570 --> 00:09:07,390
+few people these were called tribes this
+
+247
+00:09:07,390 --> 00:09:09,490
+posed an advantage everyone knew each
+
+248
+00:09:09,490 --> 00:09:11,020
+other if someone did something bad to
+
+249
+00:09:11,020 --> 00:09:12,790
+someone else they probably wouldn't get
+
+250
+00:09:12,790 --> 00:09:15,910
+away with it however we really started
+
+251
+00:09:15,910 --> 00:09:17,320
+developing agriculture and labor
+
+252
+00:09:17,320 --> 00:09:19,660
+techniques around 10,000 years ago this
+
+253
+00:09:19,660 --> 00:09:21,670
+led to large-scale food production which
+
+254
+00:09:21,670 --> 00:09:23,470
+caused the population to grow so much
+
+255
+00:09:23,470 --> 00:09:26,230
+that the tribe model stopped working in
+
+256
+00:09:26,230 --> 00:09:28,060
+order to coordinate these new societies
+
+257
+00:09:28,060 --> 00:09:30,520
+political elites emerged these were the
+
+258
+00:09:30,520 --> 00:09:33,250
+Chiefs overlords nobles Kings this later
+
+259
+00:09:33,250 --> 00:09:35,230
+led to the politician and official
+
+260
+00:09:35,230 --> 00:09:36,730
+controlled states that we all know today
+
+261
+00:09:36,730 --> 00:09:39,250
+well now thanks to globalization the
+
+262
+00:09:39,250 --> 00:09:40,810
+internet and blockchain we could be on
+
+263
+00:09:40,810 --> 00:09:42,850
+the verge of a new revolution not only
+
+264
+00:09:42,850 --> 00:09:45,010
+for the market as we've already seen but
+
+265
+00:09:45,010 --> 00:09:49,540
+also for political governance see the
+
+266
+00:09:49,540 --> 00:09:51,520
+problem with representative democracy is
+
+267
+00:09:51,520 --> 00:09:53,080
+that we've introduced a new middleman
+
+268
+00:09:53,080 --> 00:09:55,000
+the professional politician a figure
+
+269
+00:09:55,000 --> 00:09:56,680
+thus once it reaches power ends up
+
+270
+00:09:56,680 --> 00:09:58,600
+behaving like a pilfering old-style
+
+271
+00:09:58,600 --> 00:10:00,880
+elite so the question now becomes what
+
+272
+00:10:00,880 --> 00:10:09,550
+can blockchain contribute to all of this
+
+273
+00:10:09,550 --> 00:10:12,110
+well welcome to what is already known as
+
+274
+00:10:12,110 --> 00:10:14,510
+distributed democracy and new concepts
+
+275
+00:10:14,510 --> 00:10:15,860
+that could largely replace the
+
+276
+00:10:15,860 --> 00:10:17,750
+representative democracy that we know of
+
+277
+00:10:17,750 --> 00:10:19,520
+today in fact it's likely that by the
+
+278
+00:10:19,520 --> 00:10:21,380
+end of the century many politicians will
+
+279
+00:10:21,380 --> 00:10:23,180
+have been replaced by this new type of
+
+280
+00:10:23,180 --> 00:10:24,770
+governance we're talking about a system
+
+281
+00:10:24,770 --> 00:10:27,470
+based on large daos and smart contracts
+
+282
+00:10:27,470 --> 00:10:29,330
+individuals will have the option to join
+
+283
+00:10:29,330 --> 00:10:31,220
+these regardless of the territory where
+
+284
+00:10:31,220 --> 00:10:33,080
+they live
+
+285
+00:10:33,080 --> 00:10:35,960
+[Music]
+
+286
+00:10:35,960 --> 00:10:37,790
+with this new system we could all
+
+287
+00:10:37,790 --> 00:10:39,680
+participate directly or delegate
+
+288
+00:10:39,680 --> 00:10:41,450
+specific decisions for the most valued
+
+289
+00:10:41,450 --> 00:10:43,490
+prepared or most well reputed members
+
+290
+00:10:43,490 --> 00:10:45,470
+this would all work on clearly defined
+
+291
+00:10:45,470 --> 00:10:47,660
+democratic and equal rules that are
+
+292
+00:10:47,660 --> 00:10:51,140
+known by all this model would be
+
+293
+00:10:51,140 --> 00:10:53,120
+completely transparent and professional
+
+294
+00:10:53,120 --> 00:10:54,440
+politicians would be given a much
+
+295
+00:10:54,440 --> 00:10:56,660
+smaller workload that way we could also
+
+296
+00:10:56,660 --> 00:10:59,030
+end corruption and stop the way in which
+
+297
+00:10:59,030 --> 00:11:00,860
+many politicians manipulate the system
+
+298
+00:11:00,860 --> 00:11:03,020
+to their advantage the system would make
+
+299
+00:11:03,020 --> 00:11:05,510
+no allowance for partisan interests or
+
+300
+00:11:05,510 --> 00:11:08,030
+nationalism or any of these issues just
+
+301
+00:11:08,030 --> 00:11:10,280
+efficient public administrations that
+
+302
+00:11:10,280 --> 00:11:13,240
+get the job done
+
+303
+00:11:13,240 --> 00:11:15,610
+as with companies blockchain can help
+
+304
+00:11:15,610 --> 00:11:17,619
+end bureaucracy a problem that has been
+
+305
+00:11:17,619 --> 00:11:19,360
+with us for thousands of years but all
+
+306
+00:11:19,360 --> 00:11:21,579
+right so you might still be unconvinced
+
+307
+00:11:21,579 --> 00:11:22,990
+so here's a couple of questions for you
+
+308
+00:11:22,990 --> 00:11:24,369
+what do you think would happen if you
+
+309
+00:11:24,369 --> 00:11:26,410
+tried to pay for a hotel with a credit
+
+310
+00:11:26,410 --> 00:11:28,540
+card in 1800 or how would you explain
+
+311
+00:11:28,540 --> 00:11:30,459
+what the internet is to Napoleon in
+
+312
+00:11:30,459 --> 00:11:31,959
+short the future is often
+
+313
+00:11:31,959 --> 00:11:33,819
+incomprehensible in the present day but
+
+314
+00:11:33,819 --> 00:11:35,319
+this really could be the place we're
+
+315
+00:11:35,319 --> 00:11:38,199
+going so I hope you enjoyed that video
+
+316
+00:11:38,199 --> 00:11:39,879
+and just before we wrap up today let me
+
+317
+00:11:39,879 --> 00:11:42,129
+tell you a bit about Squarespace if
+
+318
+00:11:42,129 --> 00:11:44,290
+you've got an important message to share
+
+319
+00:11:44,290 --> 00:11:46,119
+you can do it with Squarespace maybe you
+
+320
+00:11:46,119 --> 00:11:47,319
+like me and you need a place of people
+
+321
+00:11:47,319 --> 00:11:49,869
+to find you on the web or finds what you
+
+322
+00:11:49,869 --> 00:11:51,309
+do I mean you're starting a new business
+
+323
+00:11:51,309 --> 00:11:52,809
+and you need to set up an online
+
+324
+00:11:52,809 --> 00:11:55,389
+presence or a store or something like
+
+325
+00:11:55,389 --> 00:11:56,769
+that well it's all possible with
+
+326
+00:11:56,769 --> 00:11:58,629
+Squarespace now on Squarespace it all
+
+327
+00:11:58,629 --> 00:12:00,399
+starts with a stunning template talk
+
+328
+00:12:00,399 --> 00:12:01,540
+mention what these things are called
+
+329
+00:12:01,540 --> 00:12:03,339
+before they call things like pursuit and
+
+330
+00:12:03,339 --> 00:12:06,160
+rice you know cool names cool templates
+
+331
+00:12:06,160 --> 00:12:08,290
+it's a great place to start or if you're
+
+332
+00:12:08,290 --> 00:12:09,850
+not into templates and you've got the
+
+333
+00:12:09,850 --> 00:12:11,769
+design skills where you can do it
+
+334
+00:12:11,769 --> 00:12:13,240
+yourself you don't have to start with a
+
+335
+00:12:13,240 --> 00:12:15,369
+template you can start from scratch and
+
+336
+00:12:15,369 --> 00:12:16,720
+make something that looks good I would
+
+337
+00:12:16,720 --> 00:12:18,399
+be completely incapable of doing that I
+
+338
+00:12:18,399 --> 00:12:20,350
+don't have design skills which is why I
+
+339
+00:12:20,350 --> 00:12:22,779
+like templates but if you do you can use
+
+340
+00:12:22,779 --> 00:12:25,820
+those design skills
+
+341
+00:12:25,820 --> 00:12:27,899
+squarespace make it super easy to make
+
+342
+00:12:27,899 --> 00:12:29,790
+something that looks amazing you can
+
+343
+00:12:29,790 --> 00:12:31,860
+also easily move over an existing domain
+
+344
+00:12:31,860 --> 00:12:34,230
+and if you posted a website elsewhere
+
+345
+00:12:34,230 --> 00:12:35,790
+before it's gonna be a good thing to
+
+346
+00:12:35,790 --> 00:12:38,250
+move over because it's all just easier
+
+347
+00:12:38,250 --> 00:12:39,750
+with Squarespace and once you've gone
+
+348
+00:12:39,750 --> 00:12:41,040
+through the super easy customization
+
+349
+00:12:41,040 --> 00:12:42,959
+process there's no updates there's no
+
+350
+00:12:42,959 --> 00:12:45,360
+patches there's no tech BS that you have
+
+351
+00:12:45,360 --> 00:12:46,140
+to deal with
+
+352
+00:12:46,140 --> 00:12:47,880
+no one likes any of that stuff but you
+
+353
+00:12:47,880 --> 00:12:49,079
+know what everyone does like that would
+
+354
+00:12:49,079 --> 00:12:51,600
+be 24/7 support that Squarespace
+
+355
+00:12:51,600 --> 00:12:52,709
+offers they're there to help you
+
+356
+00:12:52,709 --> 00:12:54,209
+whenever you've got a question then
+
+357
+00:12:54,209 --> 00:12:55,769
+Squarespace it's not just about an
+
+358
+00:12:55,769 --> 00:12:57,240
+online presence like I said if you're
+
+359
+00:12:57,240 --> 00:12:58,680
+starting a business and you want to sell
+
+360
+00:12:58,680 --> 00:13:00,899
+online Squarespace is a great place to
+
+361
+00:13:00,899 --> 00:13:03,149
+do it look if you're looking to start a
+
+362
+00:13:03,149 --> 00:13:05,760
+business pursue a dream whatever do it
+
+363
+00:13:05,760 --> 00:13:07,140
+with Squarespace head to squarespace.com
+
+364
+00:13:07,140 --> 00:13:08,790
+for a free trial and when you're ready
+
+365
+00:13:08,790 --> 00:13:11,010
+to launch go to squarespace.com /a
+
+366
+00:13:11,010 --> 00:13:13,680
+visual politic to save 10% of your first
+
+367
+00:13:13,680 --> 00:13:16,410
+purchase of a website or domain and as
+
+368
+00:13:16,410 --> 00:13:20,440
+always thank you for watching
+
+369
+00:13:20,440 --> 00:13:22,399
+and if you want to learn more about
+
+370
+00:13:22,399 --> 00:13:24,649
+politics and hear even more of my lovely
+
+371
+00:13:24,649 --> 00:13:26,899
+voice you can join us at reconsider
+
+372
+00:13:26,899 --> 00:13:28,910
+media we have a podcast at reconsider
+
+373
+00:13:28,910 --> 00:13:32,080
+Mediacom / podcast see you there
+
+374
+00:13:32,080 --> 00:13:37,740
+[Music]
+
